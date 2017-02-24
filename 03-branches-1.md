@@ -3,6 +3,7 @@ title: Branches, Part I
 title-ko: 브랜치(1)
 page_group: rysgit
 page_order: 03
+comments: true
 ---
 
 ![](images/index/branches-1.png) Branches, Part I
