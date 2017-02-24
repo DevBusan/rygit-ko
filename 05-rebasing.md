@@ -3,6 +3,7 @@ title: Rebasing
 title-ko: 리베이스
 page_group: rysgit
 page_order: 05
+comments: true
 ---
 
 ![](images/index/rebasing.png) Rebasing
