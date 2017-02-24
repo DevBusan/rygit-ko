@@ -43,7 +43,7 @@ BitBucket은 DVCS 호스팅 제공자인데 Git 저장소를 셋업하고 개발
 ## Bitbucket 계정 생성하기
 
 이 장의 첫 부분은 BitBucket 계정을 셋업하는 것을 설명할 것이다. 
-[Bitbucket.org]("http://bitbucket.org/") 로 웹브라우저를 이동하고 무료 계정을 위해 등록(sign up)하자.
+[Bitbucket.org](http://bitbucket.org/) 로 웹브라우저를 이동하고 무료 계정을 위해 등록(sign up)하자.
 
 ![](images/09/9-bitbucket-logo.png)
 > Bitbucket 로고
