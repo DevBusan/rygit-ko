@@ -3,6 +3,7 @@ title: Centralized Workflows
 title-ko: 중앙 저장소
 page_group: rysgit
 page_order: 08
+comments: true
 ---
 
 ![](images/index/centralized-workflows.png) Centralized Workflows
