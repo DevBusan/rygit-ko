@@ -3,6 +3,7 @@ title: Plumbing
 title-ko: 저수준 명령
 page_group: rysgit
 page_order: 12
+comments: true
 ---
 
 ![](images/index/plumbing.png) Plumbing
