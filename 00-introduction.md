@@ -3,6 +3,7 @@ title: Introduction
 title-ko: 소개
 page_group: rysgit
 page_order: 00
+comments: true
 ---
 
 ![](images/index/introduction.png) Introduction
