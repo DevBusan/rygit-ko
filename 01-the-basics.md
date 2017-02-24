@@ -3,6 +3,7 @@ title: The Basics
 title-ko: 기초
 page_group: rysgit
 page_order: 01
+comments: true
 ---
 
 ![](images/index/the-basics.png) The Basics
