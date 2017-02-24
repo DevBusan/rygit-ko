@@ -3,6 +3,7 @@ title: Undoing Changes
 title-ko: 변경 취소
 page_group: rysgit
 page_order: 02
+comments: true
 ---
 
 ![](images/index/undoing-changes.png) Undoing Changes
