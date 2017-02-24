@@ -3,6 +3,7 @@ title: Rewriting History
 title-ko: 히스토리 재작성
 page_group: rysgit
 page_order: 06
+comments: true
 ---
 
 ![](images/index/rewriting-history.png) Rewriting History
