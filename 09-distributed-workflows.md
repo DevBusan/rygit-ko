@@ -3,6 +3,7 @@ title: Distributed Workflows
 title-ko: 분산 개발환경
 page_group: rysgit
 page_order: 09
+comments: true
 ---
 
 ![](images/index/distributed-workflows.png) Distributed Workflows
