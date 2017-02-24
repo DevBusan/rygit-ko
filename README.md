@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 Ry's Git 한글판
 =====================================================
 > translated by DEVBUSAN community.
