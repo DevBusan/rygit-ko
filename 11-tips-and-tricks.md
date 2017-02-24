@@ -3,6 +3,7 @@ title: Tips & Tricks
 title-ko: 유용한 명령
 page_group: rysgit
 page_order: 11
+comments: true
 ---
 
 ![](images/index/tips-and-tricks.png) Tips & Tricks
