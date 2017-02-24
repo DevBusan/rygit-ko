@@ -3,6 +3,7 @@ title: Patch Workflows
 title-ko: 패치 작업
 page_group: rysgit
 page_order: 10
+comments: true
 ---
 
 ![](images/index/patch-workflows.png) Patch Workflows
