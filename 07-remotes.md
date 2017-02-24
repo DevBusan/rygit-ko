@@ -3,6 +3,7 @@ title: Remotes
 title-ko: 원격 저장소
 page_group: rysgit
 page_order: 07
+comments: true
 ---
 
 ![](images/index/remotes.png) Remotes
